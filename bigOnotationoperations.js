@@ -9,7 +9,6 @@ var loop1 = function(){
         console.log(i); 
     }
     console.timeEnd("loop1")
-    
 };
 
 console.log("goingreverse");
